@@ -1,8 +1,9 @@
 
-#### Here's some things I built:
-- Magic Analyst - [IPython Extension](https://github.com/Datached/magic-analyst) to search, download, extract and interact with dataset from Kaggle
-- SQLite Vector Database - A [vector database](https://github.com/DaveOkpare/sqlite_vector) built on SQLite, and uses KNNs for fast data retrieval.
-- Wagwan CLI - [A CLI tool](https://github.com/DaveOkpare/wagwan-cli) for Debugging, Code Understanding, and Language Conversion, inspired by GitHub Copilot
-- Hoops Genesis Sport Booking - A web app to book sport venues in [Bengaluru, India.](https://hoops-genesis-production.up.railway.app/)
-- BasketFi _(backend)_ - A financial education app available on [Google Play](https://play.google.com/store/apps/details?id=com.basketfi.app) and [App Store](https://apps.apple.com/us/app/basketfi/id1668564672)
-- Kobble Chatbot _(public release coming soon)_
+#### Here's some things I've been up to:
+- Helping startups build effective agents and evaluation pipelines.
+- Doing Research on low-resource language models. See [SabiYarn](https://aclanthology.org/2025.africanlp-1.14/)
+- Contributing to [Instructor](http://github.com/567-labs/instructor) and other open-source libraries.
+- Building a [sandbox for MCPs](http://github.com/daveokpare/sandbox) and an [observability tool](http://github.com/daveokpare/observe)
+- Writing on [LLMs, Evals etc](http://davidokpare.com/blog)
+
+--- I'm open to opportunities. contact [[me]](mailto:okparedave@gmail.com) [[linkedin]](https://linkedin.com/in/david-okpare) [[x]](https://x.com/davidokpare)
